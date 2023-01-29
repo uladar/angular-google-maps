@@ -87,7 +87,7 @@
     "angular-simple-logger": ">=0.0.1",
     "google-maps-utility-library-v3-infobox": "1.1.14",
     "google-maps-utility-library-v3-keydragzoom": "2.0.9",
-    "google-maps-utility-library-v3-markerwithlabel": "git://github.com/nmccready/google-maps-utility-library-v3-markerwithlabel.git",
+    "google-maps-utility-library-v3-markerwithlabel": "git://github.com/uladar/google-maps-utility-library-v3-markerwithlabel.git",
     "js-rich-marker": "git://github.com/uladar/js-rich-marker.git#7dd4d4de723e707975d88b512e25384b345ac3a3",
     "lodash": "3.X - 4.X",
     "markerclustererplus": "2.1.4"
